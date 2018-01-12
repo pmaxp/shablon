@@ -5,6 +5,11 @@
  [Maksim Popov]
 
 ### Development and use
+
+install ConEmu
+install git
+install node.js
+
 If you want to local install our app, you need make following commands in terminal:
 
 ```sh
